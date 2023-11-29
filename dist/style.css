@@ -1,0 +1,18 @@
+.img{
+  display:flex;
+  justify-content:center;
+}
+h1{
+  text-align:center;
+  color:OrangeRed;
+}
+body{
+  background-image:url("https://www.sazhaemsad.ru/wp-content/uploads/2017/03/Phlox-subulata-Fort-Hill-JaKMPM-1024x683.jpg");
+}
+a{
+  text-decoration:none;
+  border:3px dotted gray;
+  color:OrangeRed;
+  font-size:20px;
+  box-shadow:5px 5px 10px black;
+}
